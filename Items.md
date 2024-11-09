@@ -1,1 +1,1 @@
-Fake Wood Slabs - Craft wooden slabs, in this version they turn into "Fake Wood Slabs" which act like stone slabs and need to be mined with a pickaxe. These are also fire proof.[More Info](s)
+Fake Wood Slabs - Craft wooden slabs, in this version they turn into "Fake Wood Slabs" which act like stone slabs and need to be mined with a pickaxe. These are also fire proof.[More Info](https://github.com/ToxicAbsence/MoreInfoGuide/blob/main/Items)
