@@ -5,4 +5,4 @@ Fake Wood Slabs - Craft wooden slabs, in this version they turn into "Fake Wood 
 0.5.0: Alpha
 
 Nether Reactor Core - Craft using 6 iron and 3 diamonds. 
-[More](https://github.com/ToxicAbsence/More-Info/blob/main/Nether%20Reactor%20Core.md)
+[More Info on Nether Reactor Core](https://github.com/ToxicAbsence/More-Info/blob/main/Nether%20Reactor%20Core.md)
