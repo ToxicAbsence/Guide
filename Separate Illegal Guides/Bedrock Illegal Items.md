@@ -6,5 +6,5 @@ Fake Wood Slabs:
 0.5.0
 
 Nether Reactor Core:
-- Craft using 6 iron and 3 diamonds. Mojang decided to add this to the game since the real nether couldn't run on older devices.
+- Craft using 6 iron and 3 diamonds. Added to the game since the real nether couldn't run on older devices.
 [More Info on Nether Reactor Core](https://github.com/ToxicAbsence/More-Info/blob/main/Nether%20Reactor%20Core.md)
