@@ -1,4 +1,3 @@
-**DISCLAIMER - Guide is STILL in Progress...**
 
 **Version 0.4.0**
 
