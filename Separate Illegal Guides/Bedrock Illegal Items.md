@@ -7,4 +7,5 @@ Fake Wood Slabs:
 
 Nether Reactor Core:
 - Craft using 6 iron and 3 diamonds. Added to the game since the real nether couldn't run on older devices.
+- Glowing obsidian and sugar can tiles are obtainable using the Nether Reactor Core.
 [More Info on Nether Reactor Core](https://github.com/ToxicAbsence/More-Info/blob/main/Nether%20Reactor%20Core.md)
