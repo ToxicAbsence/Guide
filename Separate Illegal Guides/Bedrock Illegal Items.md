@@ -17,8 +17,7 @@ Nether Reactor Core:
 
 **Version 0.6.0:**
 
+info_update2:
 - Any cake blocks that are placed convert to info_update2. These blocks can be mined with any tool and will drop themselves
-
 - Mining top quartz slabs drops invalid data value slabs
-
 - When slabs are placed on the upper half and subsequently destroyed, they yield top slabs. In this version, top slabs are identifiable by their red icons.
