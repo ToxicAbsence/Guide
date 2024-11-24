@@ -43,7 +43,7 @@ Block Pallet Conversion:
 - Flowers, Saplings, and Saplings can be Waterlogged
 
 **Version 1.9.0**
--Glass Bottles can be put into a Brewing Stand via hopper
+- Glass Bottles can be put into a Brewing Stand via hopper
 
 **Version 1.16.40**
 - You can extend Pistons under y-level 0
