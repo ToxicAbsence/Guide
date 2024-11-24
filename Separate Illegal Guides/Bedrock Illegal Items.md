@@ -14,3 +14,11 @@ Nether Reactor Core:
 - Glowing obsidian and sugar can tiles are obtainable using the Nether Reactor Core.
 
 -----------*[More Info on Nether Reactor Core](https://github.com/ToxicAbsence/More-Info/blob/main/Nether%20Reactor%20Core.md)*-----------
+
+**Version 0.6.0:**
+
+- Any cake blocks that are placed convert to info_update2. These blocks can be mined with any tool and will drop themselves
+
+- Mining top quartz slabs drops invalid data value slabs
+
+- When slabs are placed on the upper half and subsequently destroyed, they yield top slabs. In this version, top slabs are identifiable by their red icons.
