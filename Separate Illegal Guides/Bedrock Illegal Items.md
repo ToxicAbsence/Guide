@@ -22,4 +22,4 @@ info_update2:
 - Mining top quartz slabs drops invalid data value slabs
 - When slabs are placed on the upper half and subsequently destroyed, they yield top slabs. In this version, top slabs are identifiable by their red icons.
 
------------*[More Info on Nether Reactor Core](https://github.com/ToxicAbsence/More-Info/blob/main/info_update2.md)*-----------
+-----------*[More Info on info_update2](https://github.com/ToxicAbsence/More-Info/blob/main/info_update2.md)*-----------
